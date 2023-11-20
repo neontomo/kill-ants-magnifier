@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kill-ants-magnifier/static/css/main.f92ed793.css",
+    "main.js": "/kill-ants-magnifier/static/js/main.67e5e53c.js",
+    "static/js/787.20885877.chunk.js": "/kill-ants-magnifier/static/js/787.20885877.chunk.js",
+    "index.html": "/kill-ants-magnifier/index.html",
+    "main.f92ed793.css.map": "/kill-ants-magnifier/static/css/main.f92ed793.css.map",
+    "main.67e5e53c.js.map": "/kill-ants-magnifier/static/js/main.67e5e53c.js.map",
+    "787.20885877.chunk.js.map": "/kill-ants-magnifier/static/js/787.20885877.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f92ed793.css",
+    "static/js/main.67e5e53c.js"
+  ]
+}
