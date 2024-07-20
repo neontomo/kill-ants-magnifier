@@ -7,6 +7,7 @@ body {
   font-size: 14px;
   cursor: none;
   user-select: none;
+  overflow: hidden;
 }
 
 .magnifier {
